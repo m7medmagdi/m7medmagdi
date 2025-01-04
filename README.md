@@ -1,7 +1,7 @@
 <h1 align='center'> Hi there 👋, I'm Mohamed Magdy  👩‍💻 </h1>
 
 <p align='center'>
-  I live in Cairo, Egypt and work as an <b>Software developer</b> 
+  I live in Jeddah, Saudi Arabia and work as an <b>Software developer</b> 
 </p>
 
 
